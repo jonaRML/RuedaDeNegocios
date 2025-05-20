@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.encontac.ruedadenegocios"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.encontac.ruedadenegocios"
